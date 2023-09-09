@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="" align="center" height="" width="600" />
 </div>  
   
 
